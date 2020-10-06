@@ -8,6 +8,7 @@ coding with leetcode, niuke and so on
     - Queue
     - Stack
 3. Tree
+    - three traversal ways of binary tree （二叉树三种遍历方式，后续会增加层次遍历）
 
 
 # 2、leetcode
