@@ -1,20 +1,28 @@
 # coding-study
 coding with leetcode, niuke and so on  
 
-# 1、basic 
-1. Algorithm
-2. DataStructure
-    - Array
-    - Queue
-    - Stack
-3. Tree
-    - three traversal ways of binary tree （二叉树三种遍历方式，后续会增加层次遍历）
+# 1、base （基础）
+> Here are some easy examples to study DataStructure and Algorithm
+
+1. Algorithm （算法部分）
+    - Sort （排序）
+    - Search （搜索）
+    - Recursion （递归）
+2. DataStructure （数据结构）
+    - List （线性表）
+    - LinkedList（链表）
+    - Tree（树）
 
 
-# 2、leetcode
+# 2、leetcode (力扣)
 > coding with leetcode  
 
-# 3、niuke
+### 2.1 leetcode list
+| id | title | created |
+| ------ | ------ | ------ |
+| 001 | twoSum | 2020/10/6 23:50|
+
+# 3、niuke （牛客网）
 > coding with niuke
 
 
