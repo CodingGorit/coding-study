@@ -18,9 +18,11 @@ coding with leetcode, niuke and so on
 > coding with leetcode  
 
 ### 2.1 leetcode list
-| id | title | created |
-| ------ | ------ | ------ |
-| 001 | twoSum | 2020/10/6 23:50|
+| id | title | created | type |
+| ------ | ------ | ------ | ------ |
+| 001 | twoSum | 2020/10/6 23:50| Array |
+| 206 | ReverseNode | 2020/10/8 0:16| LinkedList |
+| 876 | MiddleNode | 2020/10/8 0:18| LinkedList |
 
 # 3、niuke （牛客网）
 > coding with niuke
