@@ -1,4 +1,5 @@
 # coding-study
+
 niuke and so on  
 
 [牛客网刷题](https://www.nowcoder.com/activity/oj)
@@ -18,8 +19,13 @@ niuke and so on
 | JZ5  | 用两个栈实现队列 | 栈            |
 | JZ6  | 旋转数组最小数字 | 二分          |
 | JZ7  | 斐波那契数列     | 数组          |
-| JZ8  |                  |               |
-|      |                  |               |
+| JZ8  | 跳台阶 | 递归 |
+| JZ9 | 变态跳台阶 | 贪心 |
+| JZ10 | 矩形覆盖 | 递归 |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 # 二、xxx
 
